@@ -1,7 +1,7 @@
 {
     "spec": 1,
-    "name": Hiragino Sans,
-    "previewText": Hiragino Sans is a sans serif typeface with a traditional yet modern and bright feel.,
+    "name": "Hiragino Sans",
+    "previewText": "Hiragino Sans is a sans serif typeface with a traditional yet modern and bright feel.",
     "main": {
         "ABCGintoNord-ExtraBold": "link",
         "ggsans-Bold": "link",
@@ -14,10 +14,10 @@
         "ggsans-NormalItalic": "link",
         "ggsans-Semibold": "link",
         "ggsans-SemiboldItalic": "link",
-        "NotoSans-Bold": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W3.ttc",
-        "NotoSans-ExtraBold": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W4.ttc",
-        "NotoSans-Medium": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W2.ttc",
-        "NotoSans-Normal": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W1.ttc",
+        "NotoSans-Bold": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W3.ttc?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W4.ttc?raw=1",
+        "NotoSans-Medium": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W2.ttc?raw=1",
+        "NotoSans-Normal": "https://github.com/barroer/blaaablablabla/blob/main/%E3%83%92%E3%83%A9%E3%82%AD%E3%82%99%E3%83%8E%E8%A7%92%E3%82%B3%E3%82%99%E3%82%B7%E3%83%83%E3%82%AF%20W1.ttc?raw=1",
         "NotoSans-NormalItalic": "link",
         "NotoSans-Semibold": "link",
         "SourceCodePro-Semibold": "link"
